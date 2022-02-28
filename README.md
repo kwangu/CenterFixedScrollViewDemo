@@ -1,4 +1,4 @@
-# CenterFixedScrollViewDemo
+# CenterFixedScrollViewDemo by SwiftUI
 가운데로 고정된 스크롤 뷰 데모
 
 ## Add PackageManager
