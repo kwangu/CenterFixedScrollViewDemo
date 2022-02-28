@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "OffsetScrollView",
+        "repositoryURL": "https://github.com/kwangu/OffsetScrollView.git",
+        "state": {
+          "branch": "main",
+          "revision": "04b07b23c8f13421a056af2e5596466ec5ff9eb3",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
